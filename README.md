@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Shishail Telasang
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+**A Full Stack Developer || DevOps Engineer**
 
 Email Me 👉 ✉️ **sktelasan990.com** For Collaboration/Project or Anything Else. 😊😊
 
