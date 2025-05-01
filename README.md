@@ -16,7 +16,7 @@ Email Me 👉 ✉️ **sktelasang990.com** For Collaboration/Project or Anything
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shrishail-telasang) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/shrishailtelasang) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Ok_Chicken7269) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30330762) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sktelasang990@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/shrishail-telasang-056b72207) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/shrishailtelasang) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Ok_Chicken7269) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30330762) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sktelasang990@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
