@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Shishail Telasang
 **A Full Stack Developer || DevOps Engineer**
 
-Email Me 👉 ✉️ **sktelasan990.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **sktelasang990.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Stock Price Prediction Using Machine Learning
 - 🌱 **I’m currently learning:** Generative AI
