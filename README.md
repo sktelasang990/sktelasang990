@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Shishail Telasang
+# 💫 Hi 👋, I'm Shrishail Telasang
 **A Full Stack Developer || DevOps Engineer**
 
 Email Me 👉 ✉️ **sktelasang990.com** For Collaboration/Project or Anything Else. 😊😊
